@@ -9,4 +9,4 @@ Code:
 
 Result:
 
-![example1return](https://user-images.githubusercontent.com/53128374/163489679-a93fa475-dc16-43e0-97bd-16c9fb206695.png)
+![example1return](https://user-images.githubusercontent.com/53128374/163489944-83cd9298-a12e-4b1c-9f76-2923e7576062.png)
